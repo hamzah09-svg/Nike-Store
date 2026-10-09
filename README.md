@@ -1,5 +1,3 @@
-# Nike-Store
-
 # Nike Store Landing Page
 
 A responsive Nike-style store landing page built with **HTML and CSS only**. I made it as a practice project to strengthen my front-end fundamentals.
